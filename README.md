@@ -14,4 +14,4 @@ PHP 8 · MySQL · Apache (WAMP) · Postman
 4. Renseigner vos identifiants MySQL et une clé `JWT_SECRET`
 5. Tester : `http://localhost/gestiticket/api/tickets`
 ## Auteur
-Prénom Nom – BTS SIO – Promotion 2025-2027
+Callaghan VEILLARD – BTS SIO – Promotion 2025-2027
